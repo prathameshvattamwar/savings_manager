@@ -33,4 +33,29 @@
 <p>This project successfully combines the functionality of a financial tracking tool with an intuitive and visually appealing calendar interface, making it easy for users to manage and analyze their savings data over time.</p>
 <br><br>
 
+<h3>Project Preview</h3>
+<img src="https://i.imgur.com/p9Sw3nF.png"/>
+<br>
+<img src="https://i.imgur.com/x648lEh.png"/>
+<br>
+<img src="https://i.imgur.com/0ELJAn7.png"/>
+<br>
+<img src="https://i.imgur.com/i3y95dY.png"/>
+<br>
+<img src="https://i.imgur.com/y08NzWU.png"/>
+<br>
+<img src="https://i.imgur.com/VICgvRp.png"/>
+<br>
+<img src="https://i.imgur.com/eLGqk5i.png"/>
+<br>
+<img src="https://i.imgur.com/MHgXcpt.png"/>
+<br>
+<img src="https://i.imgur.com/Vtrc4Bl.png"/>
+<br>
+<img src="https://i.imgur.com/9NqoJEF.png"/>
+<br>
+<img src="https://i.imgur.com/fnG4aKe.png"/>
+<br>
+
+
 <p>Follow me for more project ideas : <a href="https://github.com/prathameshvattamwr">Click here to follow</a></p>
